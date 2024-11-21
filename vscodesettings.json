@@ -1,0 +1,100 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.addMissingImports": "explicit"
+  },
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.semi": true,
+  "prettier.singleQuote": false,
+  "prettier.jsxSingleQuote": false,
+  "prettier.trailingComma": "es5",
+  "prettier.arrowParens": "always",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.mouseWheelZoom": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "window.title": "${activeEditorMedium}${separator}${rootName}",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.linkedEditing": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "rapidapi.terminalLink.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "git.autofetch": true,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "none",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "tabnine.experimentalAutoImports": true,
+  "background.filepath": "c:\\Users\\itzme\\OneDrive\\Pictures\\1.png",
+  "vsicons.dontShowNewVersionMessage": true,
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "liveServer.settings.donotVerifyTags": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.titleBarStyle": "custom",
+  "react-native-tools.showUserTips": false,
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [
+      80
+    ],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.zoomLevel": 1,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Consolas",
+  "editor.fontSize": 18,
+  "terminal.integrated.fontFamily": "Consolas",
+  "editor.fontVariations": false,
+  "todohighlight.defaultStyle": {},
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // "files.autoSave": "onWindowChange",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.colorTheme": "Andromeda",
+  "workbench.productIconTheme": "el-vsc-v1-icons",
+  "workbench.iconTheme": "vscode-icons",
+  "remote.SSH.remotePlatform": {
+    "randomtanbiralam": "linux",
+    "productionalam": "linux",
+    "devalam": "linux",
+    "developmenttanbiralam": "linux",
+    "194.238.19.131": "linux"
+  },
+  "prisma.showPrismaDataPlatformNotification": false,
+  "workbench.sideBar.location": "right",
+  "git.ignoreRebaseWarning": true,
+  "[php]": {
+    "editor.defaultFormatter": "DEVSENSE.phptools-vscode"
+  }
+}
